@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Study/MonoGame/Assignment/Assignment/Content/Sound/theme.mp3</SourceFile>
+  <SourceTime>2019-10-10T11:49:01.0436143+08:00</SourceTime>
+  <DestFile>D:/Study/MonoGame/Assignment/Assignment/Content/bin/Windows/Sound/theme.xnb</DestFile>
+  <DestTime>2019-10-10T11:49:48.3180363+08:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-09T00:35:54+08:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-09T00:35:54+08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Study/MonoGame/Assignment/Assignment/Content/bin/Windows/Sound/theme.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

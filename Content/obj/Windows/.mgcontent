@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Berserker/anim_attack/down.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Berserker/anim_attack/downLeft.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Berserker/anim_attack/left.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Berserker/anim_attack/up.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Berserker/anim_attack/upLeft.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Berserker/anim_walk/down.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Berserker/anim_walk/downLeft.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Berserker/anim_walk/left.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Berserker/anim_walk/up.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Berserker/anim_walk/upLeft.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Knight/anim_attack/down.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Knight/anim_attack/downLeft.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Knight/anim_attack/left.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Knight/anim_attack/up.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Knight/anim_attack/upLeft.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Knight/anim_walk/down.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Knight/anim_walk/downLeft.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Knight/anim_walk/left.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Knight/anim_walk/up.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Knight/anim_walk/upLeft.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Mage/anim_attack/down.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Mage/anim_attack/downLeft.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Mage/anim_attack/left.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Mage/anim_attack/up.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Mage/anim_attack/upLeft.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Mage/anim_walk/down.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Mage/anim_walk/downLeft.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Mage/anim_walk/left.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Mage/anim_walk/up.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Mage/anim_walk/upLeft.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Soldier/anim_attack/down.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Soldier/anim_attack/downLeft.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Soldier/anim_attack/left.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Soldier/anim_attack/up.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Soldier/anim_attack/upLeft.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Soldier/anim_walk/down.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Soldier/anim_walk/downLeft.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Soldier/anim_walk/left.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Soldier/anim_walk/up.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Characters/Soldier/anim_walk/upLeft.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Font/alertFont.spritefont</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Font/btnFont.spritefont</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Font/gameFont.spritefont</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Font/itemNumFont.spritefont</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Font/timerFont.spritefont</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Font/titleFont.spritefont</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Images/arrow.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Images/axe.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Images/Background.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Images/char_select.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Images/explosion.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Images/fireBall.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Images/GamePanel.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Images/HP.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Images/hp_potion.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Images/laser.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Images/MP.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Images/mp_potion.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Images/mphp_potion.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Images/sword.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Images/White.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Sound/bgm.mp3</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Sound/collection.wav</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Sound/explosion.wav</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Sound/levelUp.wav</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Sound/lost.wav</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Sound/selectSound.wav</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Sound/theme.mp3</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Sound/useSkill.wav</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Sound/win.wav</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Tiles/tile_dirt.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Tiles/tile_grass.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Tiles/tile_Log.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Tiles/tile_magma.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Tiles/tile_rock.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Tiles/tile_snow.png</File>
+    <File>D:/Study/MonoGame/Assignment/Assignment/Content/Tiles/tile_water.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
